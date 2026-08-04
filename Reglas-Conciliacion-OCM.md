@@ -12,6 +12,7 @@ prefijos_anticipo_omitir: [PBA, PBN]
 match_amount_tolerance: 0.005
 ocm_product_id: 1277
 unidad_uom_category_id: 1
+una regla ma
 ai_model: openrouter/auto
 ---
 # Reglas de conciliación OCM–Facturas (Grupo GAB)
