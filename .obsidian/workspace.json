@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reglas-Conciliacion-OCM.md",
+                "file": "Pruebas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Reglas-Conciliacion-OCM"
+              "title": "Pruebas"
             }
           }
         ]
@@ -189,9 +189,10 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "5283135ffbf5596d",
+  "active": "2625d0a512cebc43",
   "lastOpenFiles": [
-    "Sin nombre",
-    "Reglas-Conciliacion-OCM.md"
+    "Reglas-Conciliacion-OCM.md",
+    "Pruebas.md",
+    "Sin nombre"
   ]
 }
